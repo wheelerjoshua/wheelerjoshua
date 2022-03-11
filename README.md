@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data science at Codeup
+- 🌱 Data Science alumnus from Codeup
 
 
 <!--
