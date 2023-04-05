@@ -1,8 +1,7 @@
 ### Hi there 👋
-- Data Engineer and Data Scientist
 - 🌱 Data Science alumnus from Codeup
-- 🔭 I'm currently converting PHP scripts to Python scripts
-- 💬 ChatGPT and Data Privacy
+- 🔭 I'm currently converting scripts from PHP to Python
+- 💬 AWS, ChatGPT, and Data Privacy
 
 <!--
 **wheelerjoshua/wheelerjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
