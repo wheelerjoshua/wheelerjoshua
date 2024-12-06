@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🌱 Data Science alumnus from Codeup
-- 🔭 I'm currently converting scripts from PHP to Python
-- 💬 AWS, ChatGPT, and Data Privacy
-
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Data Engineering in Azure
+- 👯 I’m looking to collaborate on fun and interesting projects
+- 💬 Ask me about Azure, AWS, LLMs, and Data Privacy
+- ⚡ Fun fact: After about 17 years of playing guitar I've finally picked up a bass guitar.
 <!--
 **wheelerjoshua/wheelerjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
